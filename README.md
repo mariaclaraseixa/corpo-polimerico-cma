@@ -1,4 +1,6 @@
-# corpo-polimerico-cma
+Análise de um material polimérico usando python
+alunas: Isabel Orso Jakovacz, Luiza Alves de Vargas, Maria Clara Seixa Scheffel e Thaiane Acyoly Cabral 
+
 Este repositório contém a análise dos dados obtidos em um ensaio de tração realizado em um corpo de prova metálico/polimérico (dependendo do material testado). A partir da planilha Excel exportada pela máquina de ensaios, foram calculadas as principais propriedades mecânicas do material:
 	•	Módulo de Elasticidade (E)
 	•	Limite de Escoamento (σₑ)
